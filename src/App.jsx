@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./App.css"
 const App = ()=>{
   let [computerScore,setInitailState] = useState(0)
   let [yourScore,setInitailState2] = useState(0)
